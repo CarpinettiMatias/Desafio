@@ -1,0 +1,50 @@
+[
+    {
+        "id": 0,
+        "name": "Case Cactus",
+        "img": "./img/CaseCactus.JPG" ,
+        "precio": 1000
+    },
+    {
+        "id": 1,
+        "name": "Case Dalmata",
+        "img": "./img/CaseDalmata.JPG" ,
+        "precio": 1000
+    },
+    {
+        "id": 2,
+        "name": "Case Flamenco",
+        "img": "./img/CaseFlamenco.JPG" ,
+        "precio": 1000
+    },
+    {
+        "id": 3,
+        "name": "Case Funny",
+        "img": "./img/CaseFunny.JPG" ,
+        "precio": 1000
+    },
+    {
+        "id": 4,
+        "name": "Case Heart",
+        "img": "./img/CaseHearLoliPop.JPG" ,
+        "precio": 1000
+    },
+    {
+        "id": 5,
+        "name": "Case Cactus",
+        "img": "./img/CaseCactus.JPG" ,
+        "precio": 1000
+    },
+    {
+        "id": 6,
+        "name": "Case Homero",
+        "img": "./img/CaseHomer.JPG" ,
+        "precio": 1000
+    },
+    {
+        "id": 7,
+        "name": "Case Wild&Free",
+        "img": "./img/CaseWildAndFree.JPG" ,
+      "precio": 1000
+    }
+]
